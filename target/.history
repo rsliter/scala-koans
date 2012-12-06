@@ -1,0 +1,6 @@
+test:compile
+~test-only org.functionalkoans.forscala.Koans
+~test-only org.functionalkoans.forscala.AboutAsserts
+~test-only org.functionalkoans.forscala.AboutValAndVar
+~test-only org.functionalkoans.forscala.AboutClasses
+~test-only org.functionalkoans.forscala.AboutRange
